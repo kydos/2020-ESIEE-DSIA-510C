@@ -4,7 +4,7 @@ This is the repository for the ESIEE 2020 DSIA-5101C .
 
 The syllabus of the course is available [here](Syllabus.pdf).
 
-The current list of projects proposals is available [here]((Syllabus.pdf)), please pick one and notify me ideally by the second class.
+The current list of projects proposals is available [here](Syllabus.pdf), please pick one and notify me ideally by the second class.
 
 ### Course Material
 The book that we will be using during the course is:
